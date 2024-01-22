@@ -13,7 +13,7 @@
 }
 
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #2e3440;
+  background-color: #000000;
   color: #d8dee9;
 }
 
@@ -214,7 +214,7 @@
   background-color: #505662;
 }
 .terminal {
-  background-color: #2e3440;
+  background-color: #000000;
   color: #d8dee9;
   font-feature-settings: "liga" 0;
   position: relative;
@@ -241,10 +241,10 @@
    background-color: #CCC;
 }
 .terminal .xterm-viewport {
-  background-color: #2e3440;
+  background-color: #000000;
   overflow-y: scroll;
 }
-.xtermInvertColor { color: #2e3440; }
+.xtermInvertColor { color: #000000; }
 .xtermInvertBgColor { background-color: #d8dee9; }
 .xtermBold { font-weight: bold; }
 .xtermUnderline { text-decoration: underline; }
